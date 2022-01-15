@@ -1,0 +1,61 @@
+.nav-link{
+    color: rgba(43, 68, 55, 0.63);
+    text-decoration: none;
+}
+.col-7{
+    padding-top: 30px;
+}
+.informationDiv{
+    background-color: rgba(176, 193, 196, 0.92);
+    margin-top:30px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 7px;
+    margin-bottom: 30px;
+}
+.information{
+    font-size: 20px;
+}
+.getStart{
+    display:block;
+    margin:auto;
+    width: 180px;
+    background-color: rgb(27, 36, 40);
+    border-color: black;
+    border-radius: 4px;
+}
+.getStartLink:hover {color:rgba(176, 193, 196, 0.92); font-weight: 1500;}
+
+.getStartLink{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card{
+    margin-top: 60px;
+    border-color: black;
+}
+.row{
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h5{
+    margin-top: 30px;
+}
